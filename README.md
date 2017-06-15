@@ -1,6 +1,6 @@
 # docker-nci-ansible-ui
 
-This image comes compiled with [nci-ansible-ui](https://github.com/node-ci/nci-ansible-ui) for execiting your Ansible playbooks in a web gui.
+This image comes compiled with [nci-ansible-ui](https://github.com/node-ci/nci-ansible-ui) for executing your Ansible playbooks in a web gui.
 
 ```bash
 docker pull jc21/nci-ansible-ui
